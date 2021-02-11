@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439401752556",
+    "project_id": "pengaduan-masyarakat-52f4b",
+    "storage_bucket": "pengaduan-masyarakat-52f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439401752556:android:6845de4b338115df6602c9",
+        "android_client_info": {
+          "package_name": "com.aamfahrur.pengaduanmasyarakat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439401752556-sb9s3bfo1ph8a0mb3qb6hma840ug6buq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcwR30JGKdu9_cord2LQG88pIi-d7q6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439401752556-sb9s3bfo1ph8a0mb3qb6hma840ug6buq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
